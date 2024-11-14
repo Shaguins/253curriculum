@@ -1,7 +1,9 @@
 import java.awt.Color;
 import java.awt.color.*;
+import java.awt.*;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
+import javax.swing.*;
 
 public class running{
     Color vsBlue = new Color(0,0,0);
